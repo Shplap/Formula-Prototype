@@ -1,2 +1,2 @@
-# Formula-Prototype
-Design Formula One racing tracks!
+# Formula Prototype
+An Unreal Engine app for designing racing tracks
